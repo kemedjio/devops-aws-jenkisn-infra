@@ -5,7 +5,7 @@ ak_cidr_private_subnet = [ "10.0.3.0/24", "10.0.4.0/24" ]
 ak_availability_zone = [ "us-east-1a", "us-east-1b" ]
 ak_ami_id = "ami-06dd92ecc74fdfb36e"
 ak_domain_name = "example.com"
-ak_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCg5fUtFvRcnlTapH5EUP1zqvDbRcTqnzqjAS9L2PT5YJ55MMFtBqniQVOgbUHMHYULZtQCATFfvLaxsOnivEBuImo2hJ0LaiVcHyN6QcyTyyNgqSqVH9p7tKxiQ5q3sCvTmA89oc1G1z11XxRXXpRda1JceopwFqMppDUhGmSEmZbYJNd5We8O+vct3uYeAOw42DLR5TMU9YgjJMVYnRDptloiYRwjOn8iREpmo8P00rUxmlUVKXiuYNP6RuBDt5IVI0RUZLPWLKtu76AKYLsdvAxl8AxHtOG3klFW5j3496TqzDw5lUBPRdQlEQMx1WWk0bP+MglNOr6RjqObVplRyMH4/W42WxFEh2xAk1urObAggv4Wg0N+giJbbgtYi4UIaVOevTyHGvvYqvYDNsO+eXoYex/gK3RnffrqR1+mRIrsOw8IlPLJJ2lmeeZiVTJK6TfypHWxd1jpVN19D2vb/6FSZlyRxuqaChJxrqj3u5OpKNH5d6asjqg6zY93UqKFNfD9u4Xp0FM2SaAjIYPJ61FqabknZXj+i4f7/62kd3AgbRmjjjUGf5slEDjiDOE2yU4A7wbKM5Flkvl4NloD1O6G3HXlEE+3WDFljjUYHKvcCjNWSRg7jWzyVUoc4Jq5HjXKiX9q4an1AYm+DhohMmuX0W3V9Tac8pE5ytE+CQ== kemedjiokenlefakanicet@penguin"
+ak_public_key = "put your .pem "
 ak_env = "Development"
 ak_instance_type = "t2.micro"
 ak_tag_name = "Ubuntu Linux EC2"
